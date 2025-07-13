@@ -1,0 +1,13 @@
+list tempat healing
+
+HIKING
+-Gn. cadas panjang 
+-Gn. patuha
+
+KULINER
+-tegalega
+-gacoan
+
+PENGAJIAN
+-mesjid tsb
+-mesjid aljabar
