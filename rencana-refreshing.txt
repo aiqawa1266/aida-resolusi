@@ -7,6 +7,7 @@ HIKING
 KULINER
 -tegalega
 -gacoan
+-richeese
 
 PENGAJIAN
 -mesjid tsb
